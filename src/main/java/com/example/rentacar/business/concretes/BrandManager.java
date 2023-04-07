@@ -79,4 +79,5 @@ public class BrandManager implements BrandService {
             throw new RuntimeException("Böyle bir marka sistemde kayıtlı!");
         }
     }
+    //deneme
 }
